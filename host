@@ -1,1 +1,1 @@
-dev ansible_ssh_host=52.14.185.33 ansible_ssh_user=ec2-user
+dev ansible_ssh_host=3.16.1.152 ansible_ssh_user=ec2-user
