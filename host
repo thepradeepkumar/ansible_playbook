@@ -1,2 +1,2 @@
 [Dev]
-Dev1 ansible_ssh_host=3.16.1.152 ansible_ssh_user=root
+Dev1 ansible_ssh_host=3.16.1.152 ansible_ssh_user=ec2-user
